@@ -78,6 +78,8 @@ I would highly recommend this upgrade as this will enable faster WiFi AC (5) sta
 
 **PHOTOS HERE**
 
+Helpful Video: https://youtu.be/JtjZKfioOHY
+
 
 ### Adding Thunderbolt Support
 
