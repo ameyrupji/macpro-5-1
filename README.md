@@ -29,6 +29,7 @@ If you already have a Mac Pro skip to the next section. Let me go through my buy
 
 ![screenshot-facebook-marketplace-1](./images/screenshot-facebook-marketplace-1.png)
 ![screenshot-facebook-marketplace-2](./images/screenshot-facebook-marketplace-2.png)
+![screenshot-facebook-marketplace-2](./images/screenshot-facebook-marketplace-3.png)
 ![screenshot-facebook-messenger](./images/screenshot-facebook-messenger.png)
 
 
