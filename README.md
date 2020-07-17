@@ -21,7 +21,6 @@ This document describes my journey with the Mac Pro (Early 2009), originally a 4
 - Useful Links
 
 
-
 ## Purchase
 
 If you already have a Mac Pro skip to the next section. Let me go through my buying experience. I saw a posting on Facebook Marketplace for a Mac Pro Early 2009. After a quick and simple negotiation I got it down to $175. Here are some of the images from the post and from the negotiation.
@@ -52,17 +51,40 @@ The steps include:
 
 The onscreen tutorial will guide you through this process.
 
-
 **Difficulty Level:** Easy
+
 **Time Required:** 10-15 min
 
-### CPU Upgrades
+### CPU Upgrade
+
+### RAM Upgrade
+
+### GPU Upgrade
+
+### PCIE SSD Upgrade
+
+### Wifi and Bluetooth Upgrade
+
+I would highly recommend this upgrade as this will enable faster WiFi AC (5) standard and Bluetooth 4.0 standard. This will allow functionality such as Airdrop and unlock with Apple Watch (Series 3+). I used the following part for the upgrade:
+
+- Mini PCI-E Adapter - [Amazon](https://amzn.to/3fDIkWw)
+- UFL/u.FL/IPX/IPEX RF Coaxial Extension Cord - [Amazon](https://amzn.to/30nqRet)
+- WiFi Bluetooth Card BCM94360CD - [Amazon](https://amzn.to/32vAtXy)
+
+
+**Difficulty Level:** Easy to Medium
+
+**Time Required:** 30-45 min
+
+**PHOTOS HERE**
+
 
 ### Adding Thunderbolt Support
 
 I added Thunderbolt support to my with a Gigabyte GC-Titan Ridge Card a full guide can be found [here](https://github.com/ameyrupji/thunderbolt-macpro-5-1/blob/master/GC-TitanRidge.md)
 
-**Difficulty Level:** Medium-High
+**Difficulty Level:** Medium to High
+
 **Time Required:** 10-15 min
 
 ## Useful Links
@@ -70,7 +92,6 @@ I added Thunderbolt support to my with a Gigabyte GC-Titan Ridge Card a full gui
 
 - http://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html#thunderbolt
 - https://www.facebook.com/groups/Mac.Pro.Upgrade
-
 
 
 **Videos**
