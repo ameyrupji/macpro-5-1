@@ -57,11 +57,37 @@ The onscreen tutorial will guide you through this process.
 
 ### CPU Upgrade
 
+I upgraded to a Intel Xeon 3.33GHz Hex X5680 processor as this is the best value for money processor. The heighest you can put in this computer in a single or dual configuration is Intel Xeon 3.46GHz Hex X5690.
+
+- Intel Xeon 3.33GHz Hex X5680 - [Amazon](https://amzn.to/2ZE052n) (Will need to be de-lidded) / [Ebay] (https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=Pair+Delidded+Intel+Xeon+3.33GHz+Hex+X5680&_sacat=0)
+- 3 MM allen wrench - [Amazon](https://amzn.to/3fAl4sx)
+- Thermal Compound Paste - [Amazon](https://amzn.to/2WyAmql)
+
 ### RAM Upgrade
+
+I recommend using only 3 out of the 4 chanel's to get the maximum speed out of the Mac Pro using `2Rx4 - 10600R` memory
+
+- (6X 16GB) PC10600 DDR3 ECC-Registered 1333MHz - [Amazon](https://amzn.to/399gXS0) / [Ebay](https://www.ebay.com/itm/96GB-6x16GB-DDR3-1333-ECC-Reg-Memory-for-Apple-Mac-Pro-Mid-2010-5-1-12-Core/303067738681?hash=item46903eb239:g:InMAAOSwCf5ek-uq) (Cheaper)
+
+
+**Difficulty Level:** Easy
+
+**Time Required:** 5 min
 
 ### GPU Upgrade
 
+The GPU that I decided to go with was the RX580. This was the only one at the time that took about 225 Watts of power. This can be supplied by the Mac Pro without any modification and gives decent performance and also allows Mac Pro to run Mojave. I used the following part for the upgrade:
+
+- Sapphire Radeon Pulse RX 580 8GB GDDR5 - [Amazon](https://amzn.to/2Cn8caS)
+- Dual Mini 6 Pin to 8 Pin PCI Express Video Card Power Adapter - [Amazon](https://amzn.to/3hcnu0R)
+
+
 ### PCIE SSD Upgrade
+
+I used the following PCIE Card and SSD for my upgrade.
+
+- NVME Adapter with Heat Sink, M.2 SSD Key M to PCI Express Expansion Card - [Amazon](https://amzn.to/2Wvh0Cs)
+- Samsung 970 EVO SSD 1TB - [Amazon](https://amzn.to/2ZF5Exv)
 
 ### Wifi and Bluetooth Upgrade
 
