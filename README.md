@@ -39,7 +39,7 @@ Personally I think that the fare price for this kind of system is below $250.
 
 Now this resulted in my upgrade journey starting with a lot of research work! I did lot of the reading and searching online but never new of this fb group [Mac.Pro.Upgrade](https://www.facebook.com/groups/Mac.Pro.Upgrade). I would recommend every one on however far in this journey to join this group.
 
-One thing that has been very helpful throughout this journey is the Mac Pro Technical documentation which can be found [here](). I will try to point out some of my findings so that folks following along will not have to do the similar research.
+One thing that has been very helpful throughout this journey is the Mac Pro Technical documentation which can be found [here](./pdfs/Tech Guide - Mac Pro (Mid-2010 ~ Mid-2012).pdf). I will try to point out some of my findings so that folks following along will not have to do the similar research.
 
 
 
