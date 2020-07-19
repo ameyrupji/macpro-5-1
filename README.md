@@ -39,6 +39,10 @@ Personally I think that the fare price for this kind of system is below $250.
 
 Now this resulted in my upgrade journey starting with a lot of research work! I did lot of the reading and searching online but never new of this fb group [Mac.Pro.Upgrade](https://www.facebook.com/groups/Mac.Pro.Upgrade). I would recommend every one on however far in this journey to join this group.
 
+One thing that has been very helpful throughout this journey is the Mac Pro Technical documentation which can be found [here](). I will try to point out some of my findings so that folks following along will not have to do the similar research.
+
+
+
 ### Flashing the 4,1 to make it 5,1
 
 I began by flashing my 4,1 to 5,1 It was a farley simple process. I will link the iFixit Guide [here]()
@@ -57,11 +61,28 @@ The onscreen tutorial will guide you through this process.
 
 ### CPU Upgrade
 
-I upgraded to a Intel Xeon 3.33GHz Hex X5680 processor as this is the best value for money processor. The heighest you can put in this computer in a single or dual configuration is Intel Xeon 3.46GHz Hex X5690.
+I upgraded to a Intel Xeon 3.33GHz Hex X5680 processor as this is the best value for money processor. The most powerful CPU that can put in this computer in a single or dual configuration is Intel Xeon 3.46GHz X5690. 
 
-- Intel Xeon 3.33GHz Hex X5680 - [Amazon](https://amzn.to/2ZE052n) (Will need to be de-lidded) / [Ebay] (https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=Pair+Delidded+Intel+Xeon+3.33GHz+Hex+X5680&_sacat=0)
+- Intel Xeon 3.33GHz Hex X5680 - [Amazon](https://amzn.to/2ZE052n) (Will need to be de-lidded) / [Ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=Pair+Delidded+Intel+Xeon+3.33GHz+Hex+X5680&_sacat=0)
 - 3 MM allen wrench - [Amazon](https://amzn.to/3fAl4sx)
 - Thermal Compound Paste - [Amazon](https://amzn.to/2WyAmql)
+
+If you are upgrading a Mac Pro 2010. Then you don't need to buy de-lidded CPUs.
+
+There are a lot of CPU upgrade videos out there a few are linked below:
+
+- https://www.youtube.com/watch?v=xaZAUAXcVYc&list=PLxp0TMbVUXVdJB6w814mdMIXP2C-k_3Tx&index=2&t=0s
+- https://youtu.be/9U5R0qyDF3g?t=927
+- https://www.youtube.com/watch?v=7O-FQgeaBE8
+- https://youtu.be/3sDZXpTP5ww?t=334
+- https://youtu.be/3Z2ZSie7zeU?t=308
+
+**Difficulty Level:** Medium to High
+
+**Time Required:** 10-15 min
+
+> **Finding:** Processor screws need to be tighten quite a bit. After if the Mac Pro is not booting keep tithing the screws quarter turn at a time till the system does not boot. Always tighten the screws in a criss cross pattern. 
+
 
 ### RAM Upgrade
 
@@ -70,9 +91,16 @@ I recommend using only 3 out of the 4 chanel's to get the maximum speed out of t
 - (6X 16GB) PC10600 DDR3 ECC-Registered 1333MHz - [Amazon](https://amzn.to/399gXS0) / [Ebay](https://www.ebay.com/itm/96GB-6x16GB-DDR3-1333-ECC-Reg-Memory-for-Apple-Mac-Pro-Mid-2010-5-1-12-Core/303067738681?hash=item46903eb239:g:InMAAOSwCf5ek-uq) (Cheaper)
 
 
+![screenshot-ram-upgrade](./images/screenshot-ram-upgrade.png)
+
+
 **Difficulty Level:** Easy
 
 **Time Required:** 5 min
+
+> **Finding:** Try to fill in 3 channels (6 DIMMs) for maximum performance of your Mac Pro. If any of of memory sticks are faulty you will see the respective LED light up on the CPU Tray. 
+
+![screenshot-ram-diagnostics](./images/screenshot-ram-diagnostics.png) 
 
 ### GPU Upgrade
 
