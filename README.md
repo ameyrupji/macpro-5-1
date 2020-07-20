@@ -1,3 +1,5 @@
+![cover-image-macpro-5-1](./images/cover-image-macpro-5-1.png)
+
 # [WIP] My MacPro 5,1 Upgrade Journey
 
 **Note: This document is still Work In Progress**
