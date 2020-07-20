@@ -1,8 +1,6 @@
 ![cover-image-macpro-5-1](./images/cover-image-macpro-5-1.png)
 
-# [WIP] My MacPro 5,1 Upgrade Journey
-
-**Note: This document is still Work In Progress**
+# My MacPro 5,1 Upgrade Journey
 
 This document describes my journey with the Mac Pro (Early 2009), originally a 4,1 flashed to a 5,1. I will ry to include some of my findings and some for people to follow along this journey if they wish to buy a used Mac Pro or upgrade to a working Mac Pro in 2020. This machine still works very well for being 10+ years old. I will try to include as many videos as possible that i have used as a reference (My YouTube playlist is added below). Before we start a quick disclaimer as always. 
 
