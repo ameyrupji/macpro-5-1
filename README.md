@@ -83,7 +83,10 @@ There are a lot of CPU upgrade videos out there a few are linked below:
 
 **Time Required:** 10-15 min
 
-> **Finding:** Processor screws need to be tighten quite a bit. After if the Mac Pro is not booting keep tightening the screws quarter turn at a time till the system does not boot. Always tighten the screws in a criss cross pattern. 
+> **Finding:** Processor screws need to be tighten quite a bit. After if the Mac Pro is not booting keep tightening the screws quarter turn at a time till the system does not boot. Always tighten the screws in a criss cross pattern. The recommended sequence is shown below
+
+![screenshot-cpu-upgrade-single](./images/screenshot-cpu-upgrade-single.png)
+![screenshot-cpu-upgrade-dual](./images/screenshot-cpu-upgrade-dual.png)
 
 
 ### RAM Upgrade
