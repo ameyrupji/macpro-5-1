@@ -1,4 +1,4 @@
-# [WIP] My MacPro 5,1 Journey
+# [WIP] My MacPro 5,1 Upgrade Journey
 
 **Note: This document is still Work In Progress**
 
@@ -9,16 +9,16 @@ This document describes my journey with the Mac Pro (Early 2009), originally a 4
 
 ## Contents
 
-- Purchase
-- My Upgrade Journey
-  - Flashing the 4,1 to make it 5,1
-  - CPU Upgrade
-  - RAM Upgrade
-  - GPU Upgrade
-  - Wifi and Bluetooth Upgrade
-  - Adding Thunderbolt Support
-- Other useful upgrades
-- Useful Links
+- [Purchase](#Purchase)
+- [My Upgrade Journey](#My-Upgrade-Journey)
+  - [Flashing the 4,1 to make it 5,1](#Flashing-the-4,1-to-make-it-5,1)
+  - [CPU Upgrade](#CPU-Upgrade)
+  - [RAM Upgrade](#RAM-Upgrade)
+  - [GPU Upgrade](#GPU-Upgrade)
+  - [Wifi and Bluetooth Upgrade](#Wifi-and-Bluetooth-Upgrade)
+  - [Adding Thunderbolt Support](#Adding-Thunderbolt-Support)
+- [Other Useful Upgrades](#Other-Useful-Upgrades)
+- [Useful Links](#Useful-Links)
 
 
 ## Purchase
