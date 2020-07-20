@@ -93,7 +93,10 @@ I recommend using only 3 out of the 4 chanel's to get the maximum speed out of t
 - (6X 16GB) PC10600 DDR3 ECC-Registered 1333MHz - [Amazon](https://amzn.to/399gXS0) / [Ebay](https://www.ebay.com/itm/96GB-6x16GB-DDR3-1333-ECC-Reg-Memory-for-Apple-Mac-Pro-Mid-2010-5-1-12-Core/303067738681?hash=item46903eb239:g:InMAAOSwCf5ek-uq) (Cheaper)
 
 
-![screenshot-ram-upgrade](./images/screenshot-ram-upgrade.png)
+There are a sequence in which RAM modules needs to be inserted into the slots here is explained in the diagram below:
+
+![screenshot-ram-slots-single](./images/screenshot-ram-slots-single.png) 
+![screenshot-ram-slots-dual](./images/screenshot-ram-slots-dual.png) 
 
 
 **Difficulty Level:** Easy
