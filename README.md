@@ -61,6 +61,13 @@ The onscreen tutorial will guide you through this process.
 
 **Time Required:** 10-15 min
 
+**Videos:**
+
+- 
+- 
+
+
+
 ### CPU Upgrade
 
 I upgraded to a Intel Xeon 3.33GHz Hex X5680 processor as this is the best value for money processor. The most powerful CPU that can put in this computer in a single or dual configuration is Intel Xeon 3.46GHz X5690. 
@@ -71,7 +78,16 @@ I upgraded to a Intel Xeon 3.33GHz Hex X5680 processor as this is the best value
 
 If you are upgrading a Mac Pro 2010. Then you don't need to buy de-lidded CPUs.
 
-There are a lot of CPU upgrade videos out there a few are linked below:
+**Difficulty Level:** Medium to High
+
+**Time Required:** 15-30 min
+
+> **Finding:** Processor screws need to be tighten quite a bit. After if the Mac Pro is not booting keep tightening the screws quarter turn at a time till the system does not boot. Always tighten the screws in a criss cross pattern. The recommended sequence is shown below:
+
+![screenshot-cpu-upgrade-single](./images/screenshot-cpu-upgrade-single.png)
+![screenshot-cpu-upgrade-dual](./images/screenshot-cpu-upgrade-dual.png)
+
+**Videos:**
 
 - https://www.youtube.com/watch?v=xaZAUAXcVYc&list=PLxp0TMbVUXVdJB6w814mdMIXP2C-k_3Tx&index=2&t=0s
 - https://youtu.be/9U5R0qyDF3g?t=927
@@ -79,14 +95,6 @@ There are a lot of CPU upgrade videos out there a few are linked below:
 - https://youtu.be/3sDZXpTP5ww?t=334
 - https://youtu.be/3Z2ZSie7zeU?t=308
 
-**Difficulty Level:** Medium to High
-
-**Time Required:** 10-15 min
-
-> **Finding:** Processor screws need to be tighten quite a bit. After if the Mac Pro is not booting keep tightening the screws quarter turn at a time till the system does not boot. Always tighten the screws in a criss cross pattern. The recommended sequence is shown below
-
-![screenshot-cpu-upgrade-single](./images/screenshot-cpu-upgrade-single.png)
-![screenshot-cpu-upgrade-dual](./images/screenshot-cpu-upgrade-dual.png)
 
 
 ### RAM Upgrade
@@ -101,14 +109,15 @@ There are a sequence in which RAM modules needs to be inserted into the slots he
 ![screenshot-ram-slots-single](./images/screenshot-ram-slots-single.png) 
 ![screenshot-ram-slots-dual](./images/screenshot-ram-slots-dual.png) 
 
-
 **Difficulty Level:** Easy
 
 **Time Required:** 5 min
 
 > **Finding:** Try to fill in 3 channels (6 DIMMs) for maximum performance of your Mac Pro. If any of of memory sticks are faulty you will see the respective LED light up on the CPU Tray. 
 
-![screenshot-ram-diagnostics](./images/screenshot-ram-diagnostics.png) 
+![screenshot-ram-diagnostics-single](./images/screenshot-ram-diagnostics-single.png) 
+![screenshot-ram-diagnostics-dual](./images/screenshot-ram-diagnostics-dual.png) 
+
 
 ### GPU Upgrade
 
@@ -117,13 +126,25 @@ The GPU that I decided to go with was the RX580. This was the only one at the ti
 - Sapphire Radeon Pulse RX 580 8GB GDDR5 - [Amazon](https://amzn.to/2Cn8caS)
 - Dual Mini 6 Pin to 8 Pin PCI Express Video Card Power Adapter - [Amazon](https://amzn.to/3hcnu0R)
 
+> **Finding:** Once you replace your GPU you will loose your ability to see the boot screen to enter into recovery mode. I would recommend keeping that old GPU around if you ever need it. You can possibly OpenCore your system to get a boot screen. Refer to the Thunderbolt 3 section below to see how you can do that.
+
+**Videos:**
+
+- 
+- 
 
 ### PCIE SSD Upgrade
 
-I used the following PCIE Card and SSD for my upgrade.
+I used the following PCIE Card and SSD for my upgrade. This upgrade is similar to adding a Graphic Card into the system refer to the Videos below.
 
 - NVME Adapter with Heat Sink, M.2 SSD Key M to PCI Express Expansion Card - [Amazon](https://amzn.to/2Wvh0Cs)
 - Samsung 970 EVO SSD 1TB - [Amazon](https://amzn.to/2ZF5Exv)
+
+**Videos:**
+
+- 
+- 
+
 
 ### Wifi and Bluetooth Upgrade
 
@@ -134,22 +155,32 @@ I would highly recommend this upgrade as this will enable faster WiFi AC (5) sta
 - WiFi Bluetooth Card BCM94360CD - [Amazon](https://amzn.to/32vAtXy)
 
 
+The bluetooth and the Wifi (AirPort Extreme) Cards can be found in the below.
+
+![screenshot-wifi-upgrade](./images/screenshot-wifi-upgrade.png) 
+![screenshot-bluetooth-upgrade](./images/screenshot-bluetooth-upgrade.png) 
+
+
+My upgrade pictures
+
+
 **Difficulty Level:** Easy to Medium
 
 **Time Required:** 30-45 min
 
-**PHOTOS HERE**
 
-Helpful Video: https://youtu.be/JtjZKfioOHY
+
+**Videos:**
+
+- https://youtu.be/JtjZKfioOHY
+- 
 
 
 ### Adding Thunderbolt Support
 
 I added Thunderbolt support to my with a Gigabyte GC-Titan Ridge Card a full guide can be found [here](https://github.com/ameyrupji/thunderbolt-macpro-5-1/blob/master/GC-TitanRidge.md)
 
-**Difficulty Level:** Medium to High
 
-**Time Required:** 10-15 min
 
 ## Useful Links
 
