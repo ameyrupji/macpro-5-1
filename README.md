@@ -7,6 +7,15 @@ This document describes my journey with the Mac Pro (Early 2009), originally a 4
 
 > **Disclaimer:** Try the things mentioned in this documentation at your own risk. I do not guaranty that this will work for you but I hope it does. This is purely for educational purposes and I am not responsible for any void in warranty. This is not a end all be all guides. These steps have worked for me but there might be additional steps that might be required for getting things to work on your end. Please follow the links mentioned in the the `Useful Links` section below for more update to date information about the community postings on this topic.
 
+
+## About my Mac Pro 5,1
+
+My MacPro has the following configurations at the moment:
+
+- Processor:        2 x 3.33 Ghz 6-Core Intel Xeon (X5680)
+- Memory:           96 GB 1066 Mhz DDR3 ECC
+- Graphics:         AMD Radeon RX 580 8 GB
+
 ## Contents
 
 - [Purchase](#Purchase)
@@ -199,20 +208,16 @@ This is very easy to do I would recommend following one of these upgrade videos:
 
 ### Wifi and Bluetooth Upgrade
 
-I would highly recommend this upgrade as this will enable faster WiFi AC (5) standard and Bluetooth 4.0 standard. This will allow functionality such as Airdrop and unlock with Apple Watch (Series 3+). I used the following part for the upgrade:
+I would highly recommend this upgrade as this will enable faster WiFi AC (5) standard and Bluetooth 4.0 standard. A full upgrade story can be found [here](./Bluetooth-Wifi-Upgrade.md) This will allow functionality such as Airdrop and unlock with Apple Watch (Series 3+). I used the following part for the upgrade:
 
 - Mini PCI-E Adapter - [Amazon](https://amzn.to/3fDIkWw)
 - UFL/u.FL/IPX/IPEX RF Coaxial Extension Cord - [Amazon](https://amzn.to/30nqRet)
 - WiFi Bluetooth Card BCM94360CD - [Amazon](https://amzn.to/32vAtXy)
 
-
-The bluetooth and the Wifi (AirPort Extreme) Cards can be found in the below.
+The bluetooth and the Wifi (AirPort Extreme) Card location from the documentation can be found below:
 
 ![screenshot-wifi-upgrade](./images/screenshot-wifi-upgrade.png) 
 ![screenshot-bluetooth-upgrade](./images/screenshot-bluetooth-upgrade.png) 
-
-
-My upgrade pictures
 
 
 **Difficulty Level:** Easy to Medium
