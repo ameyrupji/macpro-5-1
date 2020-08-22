@@ -180,6 +180,9 @@ I used the following PCIE Card and SSD for my upgrade. This upgrade is similar t
 > Cheaper Cards with lower speeds:
 > - EZDIY-FAB Dual M.2 Adapter - [Amazon](https://amzn.to/2WTgYVc)
 > - Dual M.2 PCIE Adapter for SATA or PCIE NVMe SSD - [Amazon](https://amzn.to/2OU5yvG)
+> 
+> Details on all tested cards: https://forums.macrumors.com/threads/pcie-ssds-nvme-ahci.2146725/?fbclid=IwAR097vYoy4I6C8S7cUng5NcSyJA6_UBv0Yg-rYopu8e7pJEyL0Ooum-N71E
+
 
 > **Recommendations:** start off with a upgrade using a cheaper card and then move on to buying a more expensive card if you really need that extra performance.
 
