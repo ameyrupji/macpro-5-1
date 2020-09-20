@@ -71,7 +71,7 @@ Close up image of the WiFi Bluetooth Card BCM94360CD in the Mini PCI-E Adapter:
 
 ### System Report
 
-Here are the System report screenshots for bluetooth and WiFi
+Here are the System report screenshots for bluetooth and WiFi. The card is detected as a Airport Extreme Broadcom BCM43xx Card.
 
 
 ![screenshot-system-report-bluetooth](./images/screenshot-system-report-bluetooth.png)
