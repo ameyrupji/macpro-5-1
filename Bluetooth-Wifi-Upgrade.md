@@ -46,7 +46,7 @@ To create the data cable wire follow the images below to connect the wires toget
 
 
 
-# Connect Wires to the Wifi card
+### Connect Wires to the Wifi card
 
 Here are all the connections that need to be made:
 
@@ -69,3 +69,11 @@ Close up image of the WiFi Bluetooth Card BCM94360CD in the Mini PCI-E Adapter:
 ![image-closeup-card-connections](./images/image-closeup-card-connections.png)
 
 
+### System Report
+
+Here are the System report screenshots for bluetooth and WiFi
+
+
+![screenshot-system-report-bluetooth](./images/screenshot-system-report-bluetooth.png)
+
+![screenshot-system-report-wifi](./images/screenshot-system-report-wifi.png)
